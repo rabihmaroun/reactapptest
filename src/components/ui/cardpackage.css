@@ -1,0 +1,5 @@
+.card__package{border-radius: 5px;display: flex;align-items: start;justify-content: start;gap: 15px;margin-top: 15px;text-decoration: unset; padding: 20px;border: 1px solid #D8DEE6;}
+.card__package img{width: 100px;height: 63px;object-fit: cover;border-radius: 5px;}
+.card__package .texts{width: calc(100% - 115px)}
+.card__package .texts .price{font-size: 20px;color: #000000;}
+.card__package .texts .description{font-size: 14px;color: #767676;text-decoration: unset;}

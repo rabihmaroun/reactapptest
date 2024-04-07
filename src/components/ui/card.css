@@ -1,0 +1,4 @@
+.bill__card{border-radius: 15px !important;border: unset !important;text-decoration: none;width: calc(50% - 10px);margin-bottom: 10px;margin-top: 10px;}
+.bill__card img{object-fit: contain;height: 32px;width: 32px;}
+.bill__card h4{font-size: 14px;color: #000000;text-decoration: dotted}
+.bill__card p{font-size: 12px;color: #767676;}

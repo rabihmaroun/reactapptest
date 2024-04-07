@@ -1,0 +1,5 @@
+.input-box{border-radius: 5px;background-color: #F4F4F4;padding: 10px;margin: 15px 0;}
+.input-box svg{width: 30px;}
+.input-box input{border: unset;background-color: unset;margin-left: 6px;width: calc(100% - 36px);font-weight: 500;}
+.input-box input::placeholder{font-weight: 600;}
+.input-box input:focus-visible{outline: none;}
