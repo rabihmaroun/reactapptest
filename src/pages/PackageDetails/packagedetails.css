@@ -7,8 +7,8 @@
 .package__details .amount_to_pay .amount{font-size: 20px;}
 .package__details .payNow{width: 100%;padding: 10px 20px;text-align: center;border: unset;background-color: #226D96;border-radius: 5px;color: white;}
 
-.popup{padding: 20px 10px;background-color: white;width: 100%;right: -100%; position: absolute;border-top-left-radius: 10px;border-top-right-radius: 10px;bottom: 0; transition: 0.2s ease-in-out all;}
-.popup.active{right: 0;}
+.popup{padding: 20px 10px;background-color: white;width: 100%;right: 0;left: 0; position: absolute;border-top-left-radius: 10px;border-top-right-radius: 10px;bottom: 0; transition: 0.25s ease-in-out all;visibility: hidden;opacity: 0;}
+.popup.active{visibility: visible;opacity: 1;}
 /* .popup.active::after{position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;content: '';background-color: #1C1A32;} */
 .popup .cancelBtn{position: absolute;right: 10px;top: 10px;font-size: 15px;color: #D32127;border: unset;background-color: unset;}
 .popup .checkboxImg{text-align: center;}

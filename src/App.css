@@ -1,4 +1,4 @@
-body{font-family: 'Poppins', sans-serif !important;overflow-y: hidden;}
+body{font-family: 'Poppins', sans-serif !important;overflow-x: hidden;}
 .app-container{
     max-width: 500px;
     margin: auto;
