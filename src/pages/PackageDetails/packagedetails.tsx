@@ -31,7 +31,9 @@ function Packagedetails() {
         </div>
       </div>
 
-      <Button text='Pay now' onClickFunction={() => setShowPopup(true)} />
+      <div className="mb-2">
+        <Button text='Pay now' onClickFunction={() => setShowPopup(true)} />
+      </div>
 
         <div className={`drop__layer ${showPopup ? 'active' : ''}`} onClick={() => setShowPopup(false)}></div>
         <div className={`popup text-center ${showPopup ? 'active' : ''}`}>
