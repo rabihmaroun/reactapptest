@@ -1,4 +1,4 @@
-.main_nav { background: linear-gradient(to bottom, #373464, #226D96);position: relative;z-index: 2; padding: 20px 0; text-align: center;color: white;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;}
+.main_nav { background: linear-gradient(to bottom, #373464, #226D96);position: relative;z-index: 2; padding: 20px 0; text-align: center;color: white;border-bottom-left-radius: 20px;border-bottom-right-radius: 20px;}
 .main_nav h1{font-size: 16px;}
 .main_nav svg{position: absolute;left: 30px;top: 22px;}
 .main_nav .linkTo {color: white;text-decoration: none;}
