@@ -1,4 +1,4 @@
-.package__details{display: flex;justify-content: space-between;flex-direction: column;height: calc(100vh - 60px);}
+.package__details{display: flex;justify-content: space-between;flex-direction: column;height: calc(100vh - 115px);}
 .package__details h1{font-size: 17px;margin-top: 20px;}
 .package__details .main__image{width: 100%;height: 210px;border-radius: 15px;object-fit: cover;margin-top: 10px;}
 .package__details .note{color: #F47A00;font-size: 12px;margin-top: 10px;display: flex;align-items: center;gap: 5px;}
